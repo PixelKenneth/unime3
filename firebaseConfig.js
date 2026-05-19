@@ -1,6 +1,7 @@
 export const firebaseConfig = {
   apiKey: "AIzaSyDJztBJEVcRAhOpIIgNnUFQ_E2PgAzx49Q",
   authDomain: "unime-763d2.firebaseapp.com",
+  databaseURL: "https://unime-763d2-default-rtdb.firebaseio.com",
   projectId: "unime-763d2",
   storageBucket: "unime-763d2.firebasestorage.app",
   messagingSenderId: "978655202942",
